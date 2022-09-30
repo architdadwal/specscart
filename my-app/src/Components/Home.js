@@ -20,6 +20,8 @@ function Home() {
         </p>
 
         <img src={"/components/centre.png"} alt="centre" />
+
+        <h2>Our Feeds</h2>
       </div>
     </div>
   );
